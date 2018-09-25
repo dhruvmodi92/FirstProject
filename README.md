@@ -1,5 +1,6 @@
 # FirstProject
 For learning GIT
+<<<<<<< HEAD
 
 
 
